@@ -1,0 +1,9 @@
+Good afternoon sir and mam
+
+So, In previous Project phase i have made gui to show nodes in x and y corrdinate using
+JavaFX which is a Java library that is used to develop Desktop applications as well as Rich Internet Applications.
+
+In previous phase i have shown with 3 examples .Right now i have inserted infocomm dataset in database .
+And also created datbase for storing the info like md5 hasecode,node,info ,node similararity details ,trust model score.
+
+Also i have implemented the algorithms
